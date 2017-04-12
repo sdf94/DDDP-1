@@ -1,2 +1,2 @@
 # DDDP
-Data-Driven Design of perovksite
+Data-Driven Design of Perovksite
