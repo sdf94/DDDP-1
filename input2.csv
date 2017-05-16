@@ -37,8 +37,8 @@ FA/0.85,MA/0.15,,Pb/1,,,I/0.85,Br/0.15,,,spiro-OMeTAD,SnOx,0.4,0.52,0.1
 MA/1,,,Pb/1,,,I/1.0,,,,spiro-OMeTAD,TiO2,0.802,8.49,3.38
 MA/0.95,Cs/0.05,,Pb/1,,,I/1.0,,,,spiro-OMeTAD,TiO2,0.862,13.5,6.59
 MA/1.0,,,Pb/0.97,Sn/0.03,,I/2.94,Br/0.06,,,spiro-OMeTAD,TiO2,0.826,11.1,5.24
-MA/1.0,,,PB/0.95,Sn/0.05,,I/2.90,Br/0.10,,,spiro-OMeTAD,TiO2,0.904,14.1,7.59
-MA/1.0,,,PB/0.90,Sn/0.10,,I/2.80,Br/0.20,,,spiro-OMeTAD,TiO2,0.848,9.68,4.74
+MA/1.0,,,Pb/0.95,Sn/0.05,,I/2.90,Br/0.10,,,spiro-OMeTAD,TiO2,0.904,14.1,7.59
+MA/1.0,,,Pb/0.90,Sn/0.10,,I/2.80,Br/0.20,,,spiro-OMeTAD,TiO2,0.848,9.68,4.74
 MA/0.95,Cs/0.05,,Pb/0.95,Sn/0.05,,I/2.90,Br/0.10,,,spiro-OMeTAD,TiO2,0.867,13,8.25
 MA/0.90,Cs/0.10,,Pb/0.90,Sn/0.10,,I/2.80,Br/0.20,,,spiro-OMeTAD,TiO2,0.85,12.6,6.5
 MA/0.95,Cs/0.05,,Pb/0.95,Sn/0.05,,I/2.85,Br/0.15,,,spiro-OMeTAD,TiO2,0.85,12.6,6.5
@@ -72,8 +72,8 @@ MA/0.75,FA/0.25,,Pb/1,,,I/0.9,Cl/0.1,,,,,,,17.74
 MA/0.7,FA/0.3,,Pb/1,,,I/0.9,Cl/0.1,,1.57,,,,,16.68
 MA/0.6,FA/0.4,,Pb/1,,,I/0.9,Cl/0.1,,1.57,,,,,16.48
 MA/0.5,FA/0.5,,Pb/1,,,I/0.9,Cl/0.1,,1.54,,,,,
-MA/1,,,Pb/1,Sb/0,,I/1,Br/0,,,Spiro-OMeTAD,mesoporous TiO2,0.854,10.8,5.46
-MA/1,,,Pb/0.97,Sb/0.03,,I/0.98,Br/0.03,,,Spiro-OMeTAD,mesoporous TiO2,0.774,12.8,6.47
+MA/1,,,Pb/1,Sn/0,,I/1,Br/0,,,Spiro-OMeTAD,mesoporous TiO2,0.854,10.8,5.46
+MA/1,,,Pb/0.97,Sn/0.03,,I/0.98,Br/0.03,,,Spiro-OMeTAD,mesoporous TiO2,0.774,12.8,6.47
 MA/1,HA/0,,Pb/1,,,I/1,,,,PCBM,PEDOT:PSS,,,10.1
 MA/0.95,HA/0.05,,Pb/1,,,I/1,,,,PCBM,PEDOT:PSS,,,10.3
 MA/0.9,HA/0.1,,Pb/1,,,I/1,,,,PCBM,PEDOT:PSS,0.927,16.9,11.6
