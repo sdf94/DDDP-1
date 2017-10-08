@@ -4,5 +4,5 @@ Over the recent years, a new class of solar cell based upon mixed organic–inor
 # Contributors
 Sarah Floris, Yongquan Xie, Hongbin Liu
 
-#Project Summary
+# Project Summary
 We have used linear regression model (LASSO) and neural networks on a reduced data set to identify the optimal combination of elements in the HOIPs for the energy conversion in the solar cells.  The lead based HOIP is so far still the bestcandidate for the solar cell application.  A prediction in the fullrange of FA/MA, I/Br ratios has been made based on the neural networks.
